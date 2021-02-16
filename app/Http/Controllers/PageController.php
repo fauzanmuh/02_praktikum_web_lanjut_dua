@@ -9,7 +9,7 @@ class PageController extends Controller
         echo "Selamat Datang";
     }
     public function about() {
-        echo "Muhammad Fauzan 194172017";
+        echo "Muhammad Fauzan 1941720171";
     }
     public function article($id) {
         echo "Halaman Artikel dengan Id" .$id;
